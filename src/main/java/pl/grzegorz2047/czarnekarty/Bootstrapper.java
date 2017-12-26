@@ -1,4 +1,4 @@
-package pl.grzegorz2047.polishbelike;
+package pl.grzegorz2047.czarnekarty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

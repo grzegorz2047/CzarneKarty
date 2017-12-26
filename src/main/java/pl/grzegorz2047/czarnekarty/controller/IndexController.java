@@ -1,11 +1,9 @@
-package pl.grzegorz2047.polishbelike.controller;
+package pl.grzegorz2047.czarnekarty.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import pl.grzegorz2047.polishbelike.model.Player;
+import pl.grzegorz2047.czarnekarty.model.Player;
 
 @Controller
 

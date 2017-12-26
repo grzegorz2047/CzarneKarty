@@ -1,4 +1,4 @@
-package pl.grzegorz2047.polishbelike.model;
+package pl.grzegorz2047.czarnekarty.model;
 
 import lombok.Getter;
 import lombok.Setter;
